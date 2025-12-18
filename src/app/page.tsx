@@ -1,4 +1,4 @@
-import OdontogramaCanvas from "@/components/OdontogramaCanvas";
+import OdontogramaCanvas from "@/components/OdontogramaSVG";
 
 export default function Home() {
   return (
